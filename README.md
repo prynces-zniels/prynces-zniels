@@ -1,34 +1,30 @@
-
+<!-- Typing Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Back-End+%26+System+Design;Building+Real-World+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Princess'%20World;Computer%20Science%20%26%20%40%20Academic%20City" alt="Typing SVG" />
 </div>
 
-
+<!-- Visitor Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=<prynces-zniels>&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prynces-zniels&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
 
 <br/>
 
-# Hi there!:
+<h1 id="hi-there">Hi there!</h1>
 
-I'm a **Computer Science** student having fun with codes.
-
--  **Current Focus:** --.
--  **Interests:** ---.
--  **Goal:** ---.
+I'm a **Computer Science** student having fun with code.
 
 ---
 
-#  Socials:
+# 🌐 Socials:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prynceszniels@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/princess-daniels)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<prynces-zniels>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prynces-zniels)
 
 ---
 
-# Tech Stack & Tools:
+# 💻 Tech Stack & Tools:
 
 ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -50,35 +46,27 @@ I'm a **Computer Science** student having fun with codes.
 
 ---
 
-# GitHub Stats:
+# 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<prynces-zniels>&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<prynces-zniels>&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prynces-zniels&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prynces-zniels&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<prynces-zniels>&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prynces-zniels&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-# Algorithmic Practice:
-
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=<prynces_zniels>&theme=dark" alt="LeetCode Stats" />
-</div>
-
----
-
-# Random Dev Quote:
+# ✍️ Random Dev Quote:
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
 <div align="center">
-  <sub> <a href="#-about-me">Back to Top </a></sub>
+  <sub><a href="#hi-there">Back to Top ⬆️</a></sub>
 </div>
